@@ -58,6 +58,15 @@ If it returns `/bin/zsh`, you're good.
 
 ## Installation
 
+⚠️ Before modifying your shell configuration, it is strongly recommended to create a backup.
+
+Backup your current zsh config
+
+```bash
+cp ~/.zshrc ~/.zshrc_backup_$(date +%Y%m%d_%H%M%S)
+```
+
+
 ### 1. Clone the repo
 
 
