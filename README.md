@@ -81,4 +81,10 @@ source ~/.zshrc
 
 Done.
 
+---
+## Dev
+
+```bash
+cp ~/.slash_config slash.zsh
+```
 
