@@ -24,19 +24,20 @@ Clean. Minimal. No hacks.
 
 Success:
 
-
+```bash
 echo hello
 hello
 iiii];D
+```
 
 
 Error:
 
-
+```bash
 ls not_a_real_file
 ls: not_a_real_file: No such file or directory
 iiii]:(
-
+```
 
 ---
 
@@ -47,9 +48,9 @@ iiii]:(
 
 Check your shell:
 
-
+```bash
 echo $SHELL
-
+```
 
 If it returns `/bin/zsh`, you're good.
 
@@ -60,29 +61,24 @@ If it returns `/bin/zsh`, you're good.
 ### 1. Clone the repo
 
 
-git clone https://github.com/YOUR_USERNAME/slash-shell-mood.git
-
-cd slash-shell-mood
-
-
 ### 2. Copy the script to your home directory
 
-
+```bash
 cp slash.zsh ~/.slash_config
-
+```
 
 ### 3. Add this line to your `~/.zshrc`
 
-
+```bash
 source ~/.slash_config
-
+```
 
 ### 4. Reload zsh
 
-
+```bash
 source ~/.zshrc
-
+```
 
 Done.
 
----
+
