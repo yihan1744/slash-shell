@@ -1,8 +1,8 @@
-# slash-shell-mood 🎩
+# slash-shell 🎩
 
-A minimal zsh exit-status visualizer that maps command results to expressive terminal moods.
+A minimal zsh exit-status visualizer that reacts to your commands with Slash-style emoticons. 
 
-Your terminal now reacts emotionally to your code.
+Your terminal, judged by Slash.
 
 ---
 
